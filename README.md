@@ -1,4 +1,4 @@
-# 🚀 ResearchX-AI – AI-Powered Research Assistant
+#  ResearchX-AI – AI-Powered Research Assistant
 
 > ResearchX-AI is a full-stack AI-powered research assistant that transforms how users discover, validate, and analyze information using real-time web intelligence and AI-driven reasoning.
 
@@ -20,14 +20,14 @@ It enables users to convert raw queries into meaningful, structured, and actiona
 
 ## ✨ Key Features
 
-- 🔎 AI-powered web search and analysis
-- 📊 Structured research reports with insights
-- ✅ Source validation and fact-checking
-- 📈 Trend analysis and insight extraction
-- ⚡ Real-time streaming responses (SSE)
-- 🗂️ Research history and saved results
-- 🎯 Fast & Deep Research modes
-- ⚙️ Persistent user settings
+- AI-powered web search and analysis
+- Structured research reports with insights
+- Source validation and fact-checking
+- Trend analysis and insight extraction
+- Real-time streaming responses (SSE)
+- Research history and saved results
+- Fast & Deep Research modes
+- Persistent user settings
 
 ---
 
